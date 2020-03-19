@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">20200319_01_Fragment01</string>
+
+    <string name="password">PW</string>
 </resources>
